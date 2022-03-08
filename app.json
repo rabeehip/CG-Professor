@@ -20,17 +20,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "5120090834:AAEhNuORdEQppQI69uleucv8-eviWP1g4Bc",
+            "value": "",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "5588553",
+            "value": "",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "b6e32e6afa12b49a55fa955d1c910ced",
+            "value": "",
             "required": true
         },
         "CHANNELS": {
@@ -59,12 +59,12 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
-            "value": "mongodb+srv://Rabeehip:Rabeehip@cluster0.qjz6s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "value": "",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
-            "value": "CinimaGarage",
+            "value": "",
             "required": false
         },
         "COLLECTION_NAME": {
