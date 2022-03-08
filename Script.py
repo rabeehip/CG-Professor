@@ -20,7 +20,7 @@ I am CG Professor, I am from <b>Cinima Garage</b>, I can provide movies."""
 <b>NOTE:</b>
 1. CG Professor should have admin privillage.
 2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters."""
+3. alert buttons have a limit of 64 characters.
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
